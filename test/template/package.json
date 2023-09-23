@@ -20,7 +20,7 @@
     "solid-start-static": "workspace:*",
     "typescript": "^4.9.5",
     "vite": "^4.4.6",
-    "wrangler": "^2.20.0"
+    "wrangler": "^2.20.1"
   },
   "engines": {
     "node": ">=18"
